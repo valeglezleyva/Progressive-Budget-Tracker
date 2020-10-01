@@ -15,5 +15,5 @@ Technologies:
 
 Installation
 - Clone repository
-- npm install
-- npm start
+- Packages: npm install
+- Start: node server.js
